@@ -1,0 +1,19 @@
+Mon, 10 Sep 2018 10:39:37 -0600 [WARNING] request="e441a3394b4ee" component="TYPO3.CMS.Core.Utility.ExtensionManagementUtility": TYPO3\CMS\Core\Category\CategoryRegistry: no category registered for table "pages". Key was already registered. 
+Mon, 10 Sep 2018 10:39:37 -0600 [WARNING] request="e441a3394b4ee" component="TYPO3.CMS.Core.Utility.ExtensionManagementUtility": TYPO3\CMS\Core\Category\CategoryRegistry: no category registered for table "sys_file_metadata". Key was already registered. 
+Mon, 10 Sep 2018 10:39:37 -0600 [WARNING] request="e441a3394b4ee" component="TYPO3.CMS.Core.Utility.ExtensionManagementUtility": TYPO3\CMS\Core\Category\CategoryRegistry: no category registered for table "tt_content". Key was already registered. 
+Mon, 10 Sep 2018 10:40:33 -0600 [WARNING] request="475051600cebb" component="TYPO3.CMS.Core.Utility.ExtensionManagementUtility": TYPO3\CMS\Core\Category\CategoryRegistry: no category registered for table "pages". Key was already registered. 
+Mon, 10 Sep 2018 10:40:34 -0600 [WARNING] request="475051600cebb" component="TYPO3.CMS.Core.Utility.ExtensionManagementUtility": TYPO3\CMS\Core\Category\CategoryRegistry: no category registered for table "sys_file_metadata". Key was already registered. 
+Mon, 10 Sep 2018 10:40:34 -0600 [WARNING] request="475051600cebb" component="TYPO3.CMS.Core.Utility.ExtensionManagementUtility": TYPO3\CMS\Core\Category\CategoryRegistry: no category registered for table "tt_content". Key was already registered. 
+Mon, 10 Sep 2018 10:40:41 -0600 [WARNING] request="475051600cebb" component="TYPO3.CMS.Impexp.Utility.ImportExportUtility": [1m[0m
+[36marray[0m(11 items)
+   [37m0[0m => [33m"Lost relation: pages:16"[0m (23 chars)
+   [37m1[0m => [33m"Lost relation: tt_content:125"[0m (29 chars)
+   [37m2[0m => [33m"Lost relation: tt_content:127"[0m (29 chars)
+   [37m3[0m => [33m"Lost relation: tt_content:128"[0m (29 chars)
+   [37m4[0m => [33m"Lost relation: tt_content:129"[0m (29 chars)
+   [37m5[0m => [33m"Lost relation: pages:40"[0m (23 chars)
+   [37m6[0m => [33m"Lost relation: tt_content:129"[0m (29 chars)
+   [37m7[0m => [33m"Lost relation: sys_file:100"[0m (27 chars)
+   [37m8[0m => [33m"Lost relation: sys_file:95"[0m (26 chars)
+   [37m9[0m => [33m"Lost relation: sys_file:94"[0m (26 chars)
+   [37m10[0m => [33m"Lost relation: sys_file:75"[0m (26 chars) 

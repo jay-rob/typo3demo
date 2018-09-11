@@ -1,0 +1,5 @@
+{
+    "require": {
+        "typo3/cms-introduction": "^3.0.2"
+    }
+}
